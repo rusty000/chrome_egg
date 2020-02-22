@@ -2,8 +2,8 @@
 ## A zine for the misanthropocene 
 
 ## Contributors: 
-Eleanor Konik 
-KC
+Eleanor Konik<br> 
+KC<br>
 Lazarski
 Rusty
 Jine Marshof
