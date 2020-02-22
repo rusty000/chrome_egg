@@ -122,24 +122,23 @@ The following works are licensed under CC-by-4.0: https://creativecommons.org/li
 
 <h4>3. Endling</h4>
 
-<p>I don’t know what year it is. If that makes sense.<br>
-I must be some kind of extremophile. How else could I have lived so long?<br>
-Out on the plains I thought I heard voices but I did not hear voices. These hills are empty.<br>
-Nothing moves except dust.</p>
-
-<p>Imagining the cold, barren face of a distant planet.<br>
-This planet exists somewhere as I imagine it & it is orbiting a dying star.<br> 
-Why should that planet care for life?<br>
-“”The apathy of the stars””</p>
-
+<p>I don’t know what year it is. If that makes sense.</p>
+<p>I must be some kind of extremophile. How else could I have lived so long?</p>
+<p>Out on the plains I thought I heard voices but I did not hear voices. These hills are empty. Nothing moves except dust.</p>
+<p></p>
+<p>Imagining the cold, barren face of a distant planet. This planet exists somewhere as I imagine it & it is orbiting a dying star.</p> 
+<p>Why should that planet care for life?</p>
+<p>“”The apathy of the stars””</p>
+<p></p>
 <p>I suppose I must be old now.<br>
-I gave birth to a baby girl once. She was the most beautiful thing I had ever seen.<br> 
-I have seen death & I have seen death.<br> 
-Who am I writing for</p>
-
-<p>Dear diary Sorry it’s been a while. I have been wandering for several days. The old supermarket is getting barren and I needed to find another.<br>
-Besides, I can’t think of anything to say.<br> 
-The words for things are fading.</p>
+<p>I gave birth to a baby girl once. She was the most beautiful thing I had ever seen.</p> 
+<p>I have seen death & I have seen death.</p> 
+<p>Who am I writing for</p>
+<p></p>
+<p>Dear diary Sorry it’s been a while. I have been wandering for several days. The old supermarket is getting barren and I needed to find another.</p>
+<p>Besides, I can’t think of anything to say.</p> 
+<p>The words for things are fading.</p>
+<p></p>
 <p></p>
 <p>I saw a bird today.</p>
 <p></p>
