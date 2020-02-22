@@ -4,10 +4,10 @@
 ## Contributors: 
 Eleanor Konik<br> 
 KC<br>
-Lazarski
-Rusty
-Jine Marshof
-Stuart Schrader 
+Lazarski<br>
+Rusty<br>
+Jine Marshof<br>
+Stuart Schrader<br>
 
 The following works are licensed under CC-by-4.0: https://creativecommons.org/licenses/by/4.0/
 
