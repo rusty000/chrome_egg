@@ -137,7 +137,7 @@ The following works are licensed under CC-by-4.0: https://creativecommons.org/li
 <p>Who am I writing for</p>
 <p></p>
 <p>Dear diary Sorry it’s been a while. I have been wandering for several days. The old supermarket is getting barren and I needed to find another.</p>
-<p>Besides, I can’t think of anything to say.</p> 
+<p>Besides, I can’t think of anything to say.</p>
 <p>The words for things are fading.</p>
 <p></p>
 <p></p>
