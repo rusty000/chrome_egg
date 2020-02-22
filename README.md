@@ -13,7 +13,8 @@ The following works are licensed under CC-by-4.0: https://creativecommons.org/li
 <br>
 <br>
 <p>it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end</p>
-<p></p>
+<br>
+<br>
 
 <h2>ELEANOR KONIK:</h2>
 
@@ -64,12 +65,14 @@ The following works are licensed under CC-by-4.0: https://creativecommons.org/li
 <p>"Damn shame about the crash, eh?" his partner said as they hooked up the second body.</p>
 
 <p>Distracted by his plans for the transplant, he only nodded.</p>
-<p></p>
+<br>
+<br>
 
 <h2>KC:</h2>
 
 <img src="https://github.com/rusty000/chrome_egg/blob/master/kc1.png">
-<p></p>
+<br>
+<br>
 
 <h2>LAZARSKI:</h2>
 
@@ -139,58 +142,39 @@ The following works are licensed under CC-by-4.0: https://creativecommons.org/li
 <p>Dear diary Sorry it’s been a while. I have been wandering for several days. The old supermarket is getting barren and I needed to find another.</p>
 <p>Besides, I can’t think of anything to say.</p>
 <p>The words for things are fading.</p>
-<p></p>
-<p></p>
-<p></p>
+<br>
+<br>
 <p>I saw a bird today.</p>
-<p></p>
+<br>
+<br>
 
 <h2>RUSTY:</h2>
+
+<img src="https://i.guim.co.uk/img/media/2f512d097d3ea59f2156237ebb642ed98f2837da/0_0_1068_1645/master/1068.jpg?width=720&quality=45&auto=format&fit=max&dpr=2&s=508d8797641d2dbe855a88cf2e5cd934">
+
 <h3>Stasi officer's love letter to DDR [East German] punks</h3>
 
-<p>I got ya taxonomized, my<br>
-leperous butterflies.<br>
-I caress your mugshots,<br>
-aching<br>
-for the cool feel<br>
-of studded leather,<br>
-the glue crusting in mohawks.<br>
-I savor your spew:<br>
-"We have no plan, and<br>
-we like it that way."</p>
+<p>I got ya taxonomized, my leperous butterflies.</p>
 
-<p>Lemme pathologize<br>
-your fuschia'd stains, your<br>
-nurtured rabies, your<br>
-erupting <br>
-skeletons.</p>
+<p>I caress your mugshots,aching for the cool feel of studded leather, the glue crusting in mohawks.</p>
 
-<p>Lemme show you a place<br>
-where dreams<br>
-never<br>
-existed.</p>
+<p>I savor your spew: "We have no plan, and we like it that way."</p>
 
+<p>Lemme pathologize your fuschia'd stains, your nurtured rabies, your erupting skeletons.</p>
+
+<p>Lemme show you a place where dreams never existed.</p>
+<br>
 <h3>DDR punks reply to the Stasi</h3>
 
-<p>Fuck exhaust skies,<br>
-shatturd<br>
-walls in<br>
-city-cores, Nazi<br>
-ghosts still<br> 
-(how many told us<br>
-"You should be gassed!",<br>
-today?)</p>
+<p>Fuck exhaust skies, shatturd walls in city-cores, Nazi ghosts still (how many told us "You should be gassed!", today?)</p>
 
-<p>We corrode cassettes, secrete basement<br>
-rehearsals.</p>
+<p>We corrode cassettes, secrete basement rehearsals.</p>
 
-<p>We pogo-dance before church<br>
-altars.</p>
+<p>We pogo-dance before church altars.</p>
 
-<p>We burn & laugh, resilient<br>
-cockroaches.</p>
-<p></p>
-
+<p>We burn & laugh, resilient cockroaches.</p>
+<br>
+</br>
 <h2>JINE MARSHOF:</h2>
 <h3>On default</h3>
  
@@ -209,7 +193,8 @@ cockroaches.</p>
 <p>In 2015, Greece fails to meet its 1.5 billion euro payment obligation to the International Monetary Fund (IMF). The state is on default. TROIKA is coming. It presumes executive power to itself by setting up default parameters for the state to function at all. IMF does a similar trick.</p>
 
 <p>Default as the general standard in a world determined by technical infrastructures and financial relationships manifests the horror of existence as Emmanuel Lévinas describes it: il y a (‘there is’). It is the heavy “present absence” that sets up a field of forces with NULL values.</p>
-<p></p>
+<br>
+<br>
 
 <h2>KC:</h2> 
 
@@ -275,7 +260,9 @@ cockroaches.</p>
 <p>When The Oppressed started to give such full-throated and explicit support to SHARP, AFA, RASH, and other groups, it threw a new light on some of their earlier material. Although there was never a dodgy lyric to be found on the old tracks, some of their street poetry registers differently when you realize how committed the band was to anti-racist politics. It also indicates what Oi! music could have been: a force for uniting a multi-racial working class movement against capital. Take “Work Together,” a song title that urges unity and renders Oi! music as a mode of unification, an instrument for building solidarity in the moment of decomposition of the industrial working class. We may no longer work together on the shop floor, but we’ll work together on the dance floor. And in the streets.</p>
 
 <p>Listening to the lyrics today I am astonished at their radicalism. The Oppressed want to abolish the SPG, the police division responsible for killing Blair Peach during an anti-fascist protest. They want to abolish interracial violence. “Dreaming of how life could be / If society was free.” No one’s going to do it for us; we have to do it ourselves. Musically and politically.</p>
-<p></p>
+<br>
+<br> 
+
 <h2>LICENSE:</h2> 
 
 <p><b>chrome_egg</b> is licensed under <b>CC-BY-4.0</b>, or, Creative Commons Attribution 4.0 International.</p> 
