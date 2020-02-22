@@ -1,2 +1,13 @@
-# chrome_egg
-chrome_egg
+# <chrome_egg>
+## A zine for the misanthropocene 
+
+## Contributors: 
+Eleanor Konik 
+KC
+Lazarski
+Rusty
+Jine Marshof
+Stuart Schrader 
+
+The following works are licensed under CC-by-4.0: https://creativecommons.org/licenses/by/4.0/
+
