@@ -9,7 +9,7 @@ Rusty<br>
 Jine Marshof<br>
 Stuart Schrader<br>
 
-The following works are licensed under CC-by-4.0: https://creativecommons.org/licenses/by/4.0/
+The following works are licensed under CC-by-SA 2.0: https://creativecommons.org/licenses/by-sa/2.0/
 <br>
 <br>
 <p>it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end of the world, don't you know that? it's after the end</p>
@@ -265,13 +265,13 @@ The following works are licensed under CC-by-4.0: https://creativecommons.org/li
 
 <h2>LICENSE:</h2> 
 
-<p><b>chrome_egg</b> is licensed under <b>CC-BY-4.0</b>, or, Creative Commons Attribution 4.0 International.</p> 
+<p><b>chrome_egg</b> is licensed under <b>CC BY-SA 2.0</b>, or Creative Commons Share-Alike 2.0 </p> 
 
 <p>You are free to share & adapt this work. If you do so, you must provide appropriate credit, provide a link to the work & the license, & indicate if changes were made.</p> 
 
 <p>If you do share or adapt an elements of this work, it must be under the terms of the CC-BY-4.0 license as well.</p> 
 
-<p>Full information here: https://creativecommons.org/licenses/by/4.0/</p>
+<p>Full information here: https://creativecommons.org/licenses/by-sa/2.0/</p>
 
 
 
